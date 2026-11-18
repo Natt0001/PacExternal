@@ -4,9 +4,9 @@ Téléchargements officiels : [dernière release stable](https://github.com/Natt
 
 ## Installer
 
-Télécharger le ZIP Windows x64, l’extraire entièrement dans un dossier accessible en écriture puis ouvrir `PacExternal.exe`. Conserver `PacExternal.Updater.exe`, les licences et le dossier Offsets à côté. Aucun SDK ni .NET installé n’est requis.
+Télécharger le ZIP Windows x64, l’extraire entièrement dans un dossier accessible en écriture puis ouvrir `PacExternal.exe`. Conserver `PacExternal.Updater.exe`, les licences et le dossier Offsets à côté.
 
-La première installation de la **4.1.0** se fait manuellement depuis une version antérieure. À partir de la 4.1.0, l’updater vérifie les nouvelles releases stables au démarrage, authentifie leur manifeste et installe les fichiers avant de lancer l’application. Les réglages restent dans AppData. Une panne réseau laisse la version locale utilisable.
+La première installation de la **4.1.0** se fait manuellement depuis une version antérieure. À partir de la 4.1.0, l’updater vérifie les nouvelles releases stables au démarrage, authentifie leur manifeste et installe les fichiers avant de lancer l’application. Les réglages restent dans AppData.
 
 Les fichiers `PacExternal.update.json` et `PacExternal.update.sig` servent à l’updater ; il n’est pas nécessaire de les télécharger manuellement. Cette signature de mise à jour ne remplace pas une signature Authenticode Windows des EXE.
 
