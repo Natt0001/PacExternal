@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="112" viewBox="0 0 560 112" role="img" aria-label="Télécharger pour Windows">
+ <defs><linearGradient id="button" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3b82f6"/><stop offset="1" stop-color="#2563d9"/></linearGradient></defs>
+ <rect x="1" y="1" width="558" height="110" rx="20" fill="url(#button)" stroke="#73a8ff" stroke-opacity=".55" stroke-width="2"/>
+ <path d="M55 35v31m-12-11 12 12 12-12M39 76h32" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="100" y="67" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="600">Télécharger pour Windows</text>
+</svg>
