@@ -33,7 +33,7 @@ Windows x64 &nbsp; · &nbsp; English and French
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Notification area</strong><p>Minimize the window and restore it from its icon or with your shortcut.</p></td>
-<td width="50%" valign="top"><strong>Nine Roblox profiles</strong><p>Get the options and team filter suited to your selected game.</p></td>
+<td width="50%" valign="top"><strong>Twelve Roblox profiles and Universal beta</strong><p>Choose the options suited to your game or try the generic mode in another Roblox game.</p></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Permanent whitelist</strong><p>Save recognized accounts to always exclude them from visuals and assistance.</p></td>
@@ -58,11 +58,17 @@ Windows x64 &nbsp; · &nbsp; English and French
 
 ## Games
 
-RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK and Phantom Forces.
+RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK, Phantom Forces, One Shot, BloxStrike and BRM5.
 
-Teams follow the selected profile and game mode. One Tap and Pixel Arena are free for all. In RIVALS, teammates identified from the scoreboard are remembered until you change servers.
+Teams follow the selected profile and game mode. One Tap, Pixel Arena and One Shot are free for all. In RIVALS, teammates identified from the scoreboard are remembered until you change servers.
 
-Phantom Forces supports team recognition; account names and account-based whitelisting are unavailable in this profile.
+| Profile | Compatibility |
+| :--- | :--- |
+| **BloxStrike** | Bomb Defusal: players, bots and automatic teams. Boxes and tracking are limited to visible opponents. |
+| **BRM5** | PvP Sandbox: automatic teams with the game's teammate markers enabled. Other modes are not supported. |
+| **Universal · beta** | Standard Roblox players and teams. Compatibility varies by game; bots and custom systems are not guaranteed. Prefer the dedicated profile when available. |
+
+Account names and account-based whitelisting are unavailable in Phantom Forces and BRM5.
 
 ## Getting started
 
@@ -92,6 +98,13 @@ Customize your keys in the **Shortcuts** tab. **F12** remains the immediate stop
 </details>
 
 ## Quick help
+
+<details>
+<summary>When should I use Universal beta?</summary>
+
+Try **Universal · beta** if your Roblox game has no dedicated profile. It recognizes standard characters and teams; support depends on the game. When a team cannot be recognized, assistance waits while **Ignore teammates** is enabled. In free for all, you can turn this filter off after checking.
+
+</details>
 
 <details>
 <summary>How do I remember my teammates in RIVALS?</summary>

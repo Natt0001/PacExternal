@@ -33,7 +33,7 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Zone de notification</strong><p>Réduisez la fenêtre et retrouvez-la depuis son icône ou avec votre raccourci.</p></td>
-<td width="50%" valign="top"><strong>Neuf profils Roblox</strong><p>Retrouvez les options et le filtre d’équipe adaptés au jeu sélectionné.</p></td>
+<td width="50%" valign="top"><strong>Douze profils Roblox et Universal bêta</strong><p>Retrouvez les options adaptées à votre jeu ou essayez le mode générique sur un autre jeu Roblox.</p></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Liste blanche permanente</strong><p>Enregistrez les comptes reconnus que vous souhaitez toujours exclure de l’affichage et de l’assistance.</p></td>
@@ -58,11 +58,17 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 
 ## Jeux
 
-RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK et Phantom Forces.
+RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK, Phantom Forces, One Shot, BloxStrike et BRM5.
 
-Les équipes suivent le profil et le mode de jeu. One Tap et Pixel Arena sont en chacun pour soi. Dans RIVALS, les coéquipiers reconnus depuis le tableau restent mémorisés jusqu’au changement de serveur.
+Les équipes suivent le profil et le mode de jeu. One Tap, Pixel Arena et One Shot sont en chacun pour soi. Dans RIVALS, les coéquipiers reconnus depuis le tableau restent mémorisés jusqu’au changement de serveur.
 
-Sur Phantom Forces, les équipes sont reconnues ; les noms de comptes et la liste blanche par compte ne sont pas disponibles.
+| Profil | À savoir |
+| :--- | :--- |
+| **BloxStrike** | Bomb Defusal : joueurs et bots, équipes automatiques. Cadres et suivi sur les adversaires visibles uniquement. |
+| **BRM5** | PvP Sandbox : équipes automatiques avec les marqueurs d’alliés du jeu actifs. Les autres modes ne sont pas pris en charge. |
+| **Universal · bêta** | Joueurs et équipes Roblox standard. La compatibilité varie selon le jeu ; bots et systèmes personnalisés non garantis. Préférez le profil dédié lorsqu’il existe. |
+
+Sur Phantom Forces et BRM5, les noms de comptes et la liste blanche par compte ne sont pas disponibles.
 
 ## Bien démarrer
 
@@ -92,6 +98,13 @@ Les touches se personnalisent dans l’onglet **Raccourcis**. **F12** reste la c
 </details>
 
 ## Aide rapide
+
+<details>
+<summary>Quand utiliser Universal bêta ?</summary>
+
+Essayez **Universal · bêta** si votre jeu Roblox n'a pas de profil dédié. Ce mode reconnaît les personnages et équipes standard ; la compatibilité dépend du jeu. Si l'équipe n'est pas reconnue, l'assistance attend lorsque **Ignorer les coéquipiers** est actif. En chacun pour soi, vous pouvez désactiver ce filtre après vérification.
+
+</details>
 
 <details>
 <summary>Comment mémoriser mes coéquipiers dans RIVALS ?</summary>
