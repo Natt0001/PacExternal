@@ -10,7 +10,7 @@ Windows x64 &nbsp; · &nbsp; English and French
 
 <a href="https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe"><img src=".github/readme/download-en.svg" alt="Download for Windows" width="280" height="56"></a>
 
-[Features](#features) &nbsp; · &nbsp; [Installation](#getting-started) &nbsp; · &nbsp; [Help](#quick-help) &nbsp; · &nbsp; [Français](README.md)
+[Features](#features) &nbsp; · &nbsp; [Games](#games) &nbsp; · &nbsp; [Installation](#getting-started) &nbsp; · &nbsp; [Help](#quick-help) &nbsp; · &nbsp; [Français](README.md)
 
 </div>
 
@@ -33,7 +33,11 @@ Windows x64 &nbsp; · &nbsp; English and French
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Notification area</strong><p>Minimize the window and restore it from its icon or with your shortcut.</p></td>
-<td width="50%" valign="top"><strong>Game profiles</strong><p>Select your Roblox profile: RIVALS or Arsenal.</p></td>
+<td width="50%" valign="top"><strong>Nine Roblox profiles</strong><p>Get the options and team filter suited to your selected game.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Permanent whitelist</strong><p>Save recognized accounts to always exclude them from visuals and assistance.</p></td>
+<td width="50%" valign="top"><strong>Beta prediction</strong><p>Enable movement prediction and adjust its strength to suit your preferences.</p></td>
 </tr>
 </table>
 
@@ -51,6 +55,14 @@ Windows x64 &nbsp; · &nbsp; English and French
 </table>
 
 </details>
+
+## Games
+
+RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK and Phantom Forces.
+
+Teams follow the selected profile and game mode. One Tap and Pixel Arena are free for all. In RIVALS, teammates identified from the scoreboard are remembered until you change servers.
+
+Phantom Forces supports team recognition; account names and account-based whitelisting are unavailable in this profile.
 
 ## Getting started
 
@@ -73,13 +85,20 @@ Customize your keys in the **Shortcuts** tab. **F12** remains the immediate stop
 | Toggle player boxes | **F7** |
 | Toggle tracers | **F8** |
 | Toggle head boxes | **F9** |
-| Scan teammates from the scoreboard | **F10** |
+| Scan RIVALS teammates from the scoreboard | **F10** |
 | Hide or restore the application | **Ctrl + Shift + Insert** |
 | Stop assistance immediately | **F12** |
 
 </details>
 
 ## Quick help
+
+<details>
+<summary>How do I remember my teammates in RIVALS?</summary>
+
+Enable **Ignore teammates**, hold **Tab**, then press **F10**. Once the scan is confirmed, teammates stay remembered after respawns and players joining or leaving. Changing servers resets this group; your whitelist stays saved.
+
+</details>
 
 <details>
 <summary>How do I update PacExternal?</summary>
@@ -106,6 +125,6 @@ Open **Configuration → Language**, select English or French, then restart PacE
 
 <div align="center">
 
-**[Download PacExternal](https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe)** &nbsp; · &nbsp; [Release notes](https://github.com/Natt0001/PacExternal/releases)
+**[Download PacExternal](https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe)** &nbsp; · &nbsp; [Release notes](https://github.com/Natt0001/PacExternal/releases) &nbsp; · &nbsp; [Discord](https://discord.gg/3fU73mZpqg)
 
 </div>

@@ -10,7 +10,7 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 
 <a href="https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe"><img src=".github/readme/download-fr.svg" alt="Télécharger pour Windows" width="280" height="56"></a>
 
-[Fonctionnalités](#fonctionnalités) &nbsp; · &nbsp; [Installation](#bien-démarrer) &nbsp; · &nbsp; [Aide](#aide-rapide) &nbsp; · &nbsp; [English](README.en.md)
+[Fonctionnalités](#fonctionnalités) &nbsp; · &nbsp; [Jeux](#jeux) &nbsp; · &nbsp; [Installation](#bien-démarrer) &nbsp; · &nbsp; [Aide](#aide-rapide) &nbsp; · &nbsp; [English](README.en.md)
 
 </div>
 
@@ -33,7 +33,11 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Zone de notification</strong><p>Réduisez la fenêtre et retrouvez-la depuis son icône ou avec votre raccourci.</p></td>
-<td width="50%" valign="top"><strong>Profils de jeu</strong><p>Sélectionnez votre profil Roblox : RIVALS ou Arsenal.</p></td>
+<td width="50%" valign="top"><strong>Neuf profils Roblox</strong><p>Retrouvez les options et le filtre d’équipe adaptés au jeu sélectionné.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Liste blanche permanente</strong><p>Enregistrez les comptes reconnus que vous souhaitez toujours exclure de l’affichage et de l’assistance.</p></td>
+<td width="50%" valign="top"><strong>Prédictions bêta</strong><p>Activez l’anticipation des déplacements et ajustez sa force selon vos préférences.</p></td>
 </tr>
 </table>
 
@@ -51,6 +55,14 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 </table>
 
 </details>
+
+## Jeux
+
+RIVALS, Arsenal, BLITZ FPS, Revolver Arena, Hypershot, One Tap, Pixel Arena, KILLSTREAK et Phantom Forces.
+
+Les équipes suivent le profil et le mode de jeu. One Tap et Pixel Arena sont en chacun pour soi. Dans RIVALS, les coéquipiers reconnus depuis le tableau restent mémorisés jusqu’au changement de serveur.
+
+Sur Phantom Forces, les équipes sont reconnues ; les noms de comptes et la liste blanche par compte ne sont pas disponibles.
 
 ## Bien démarrer
 
@@ -73,13 +85,20 @@ Les touches se personnalisent dans l’onglet **Raccourcis**. **F12** reste la c
 | Activer ou désactiver les cadres | **F7** |
 | Activer ou désactiver les traceurs | **F8** |
 | Activer ou désactiver les cadres des têtes | **F9** |
-| Scanner les coéquipiers depuis le tableau | **F10** |
+| Scanner les coéquipiers RIVALS depuis le tableau | **F10** |
 | Masquer ou réafficher l’application | **Ctrl + Maj + Inser** |
 | Arrêter immédiatement l’assistance | **F12** |
 
 </details>
 
 ## Aide rapide
+
+<details>
+<summary>Comment mémoriser mes coéquipiers dans RIVALS ?</summary>
+
+Activez **Ignorer les coéquipiers**, maintenez **Tab**, puis appuyez sur **F10**. Une fois le scan confirmé, les alliés restent mémorisés après les respawns et les arrivées ou départs de joueurs. Un changement de serveur réinitialise ce groupe ; la liste blanche reste enregistrée.
+
+</details>
 
 <details>
 <summary>Comment mettre PacExternal à jour ?</summary>
@@ -106,6 +125,6 @@ Ouvrez **Configurations → Langue**, choisissez français ou anglais, puis rela
 
 <div align="center">
 
-**[Télécharger PacExternal](https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe)** &nbsp; · &nbsp; [Notes de version](https://github.com/Natt0001/PacExternal/releases)
+**[Télécharger PacExternal](https://github.com/Natt0001/PacExternal/releases/download/setup-1.0.0/PacExternal-Setup.exe)** &nbsp; · &nbsp; [Notes de version](https://github.com/Natt0001/PacExternal/releases) &nbsp; · &nbsp; [Discord](https://discord.gg/3fU73mZpqg)
 
 </div>
