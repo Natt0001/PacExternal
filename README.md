@@ -42,6 +42,17 @@ Windows x64 &nbsp; · &nbsp; Français et anglais
 </table>
 
 <details>
+<summary>Vitesse de déplacement · bêta</summary>
+
+Ajoutez un bonus de **0 à 200 studs/s** à la vitesse du jeu dans **Local · bêta**, puis cliquez sur **Appliquer**. Exemple : une base de 20 et un bonus de 30 donnent une vitesse de 50. À 0, aucun bonus n’est ajouté.
+
+Le bonus est réappliqué si le jeu réinitialise la vitesse. **Arrêter et rétablir** ou **F12** restaure la vitesse de base. La compatibilité dépend du jeu et du personnage utilisé.
+
+![Réglage de la vitesse de déplacement](.github/readme/local-fr.png)
+
+</details>
+
+<details>
 <summary>Voir les raccourcis et les préférences</summary>
 
 <br>
@@ -80,7 +91,7 @@ Personnalisez ensuite l’affichage, l’assistance et les raccourcis selon vos 
 
 ## Commandes
 
-Les touches se personnalisent dans l’onglet **Raccourcis**. **F12** reste la commande d’arrêt immédiat de l’assistance.
+Les touches se personnalisent dans l’onglet **Raccourcis**. **F12** arrête immédiatement l’assistance et les effets locaux.
 
 <details>
 <summary>Raccourcis par défaut</summary>

@@ -42,6 +42,17 @@ Windows x64 &nbsp; · &nbsp; English and French
 </table>
 
 <details>
+<summary>Movement speed · beta</summary>
+
+Add a bonus of **0 to 200 studs/s** to the game's speed in **Local · beta**, then select **Apply**. For example, a base of 20 and a bonus of 30 give a speed of 50. Zero adds no bonus.
+
+The bonus reapplies if the game resets the speed. **Stop and restore** or **F12** restores the base speed. Compatibility depends on the game and character.
+
+![Movement speed settings](.github/readme/local-en.png)
+
+</details>
+
+<details>
 <summary>View shortcuts and preferences</summary>
 
 <br>
@@ -80,7 +91,7 @@ Adjust the visuals, assistance and shortcuts to suit your preferences.
 
 ## Controls
 
-Customize your keys in the **Shortcuts** tab. **F12** remains the immediate stop command for assistance.
+Customize your keys in the **Shortcuts** tab. **F12** immediately stops assistance and local effects.
 
 <details>
 <summary>Default shortcuts</summary>
